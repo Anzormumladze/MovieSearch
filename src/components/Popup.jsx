@@ -14,7 +14,7 @@ const Popup = ({ selected, closePopup }) => {
             <p>{selected.Plot}</p>
           </div>
           <button className="close" onClick={closePopup}>
-            Close
+            Close 
           </button>
         </div>
       </section>
